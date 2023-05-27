@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+
+       /* body{
+        background-color:#df0d0d;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+       } 
+
+        .height{
+        height: 100vh;
+       }
+    
+
+       .search{
+       position: relative;
+       box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+         
+       }
+
+       .search input{
+
+        height: 60px;
+        text-indent: 25px;
+        border: 2px solid #d6d4d4;
+
+
+       }
+
+
+       .search input:focus{
+
+        box-shadow: none;
+        border: 2px solid blue;
+
+
+       }
+
+       .search .fa-search{
+
+        position: absolute;
+        top: 20px;
+        left: 16px;
+
+       }
+
+       .search button{
+
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        height: 50px;
+        width: 110px;
+        background: blue;
+
+       } */
+
+       .search{
+              position: relative;
+              /* box-shadow: 0 0 40px rgba(51, 51, 51, .1); */
+                
+              }
+              .search input{
+
+                     height: 60px;
+                     text-indent: 25px;
+                     border: 2px solid #d6d4d4;
+             
+             
+                    }
+
+                    .search input:focus{
+
+                     box-shadow: none;
+                     border: 2px solid #ff014f;
+             
+             
+                    }
+
+                    .search .fa-search{
+
+                     position: absolute;
+                     top: 20px;
+                     left: 16px;
+             
+                    }
+                    .search button{
+
+                     /* position: absolute; */
+                     /* top: 5px;
+                     right: 5px; */
+                     /* margin: 5px;
+                     height: 50px;
+                     width: 110px;
+                     transition: 0.3s all ease;
+                     color: #ff014f;
+                     border-radius: 6px;
+
+              cursor: pointer; */
+
+
+
+              /* padding: 18px 25px;
+  border-radius: 6px;
+  transition: 0.3s all ease;
+  cursor: pointer;
+  height: fit-content;
+  color: #ff014f; */
+                    }
+
+                    .search button {
+                     margin: 5px;
+                     padding: 18px 25px;
+                     border-radius: 6px;
+                     transition: 0.3s all ease;
+                     cursor: pointer;
+                     height: fit-content;
+                     color: #ff014f;
+                   }
+                   .search button {
+                     background: linear-gradient(145deg, #e2e8ec, #ffffff);
+                     box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
+                   }
+                   .search button:hover {
+                     background: #ff014f;
+                     color: white;
+                   }
